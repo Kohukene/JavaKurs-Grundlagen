@@ -8,7 +8,7 @@ package com.t_systems_mms.basics;
 
 import org.apache.log4j.*;
 
-
+//neuer Test-Kommentar für GIT
 public class HelloWorld {
 
 	static Logger log =LogManager.getLogger(HelloWorld.class.getName());
